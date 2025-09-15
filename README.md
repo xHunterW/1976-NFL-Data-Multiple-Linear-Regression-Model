@@ -1,7 +1,7 @@
 # 1976-NFL-Data-Multiple-Linear-Regression-Model
 This project models 1976 NFL team win totals using multiple linear regression and a transparent, reproducible workflow applicable to modern NFL datasets.
 
-# Includes
+# Includes:
 - Raw Dataset
 - Cleaned team-level 1976 features (offense/defense/efficiency-style stats) and a target of wins.
 - An analysis notebook/script that builds, diagnoses, and validates the model.
