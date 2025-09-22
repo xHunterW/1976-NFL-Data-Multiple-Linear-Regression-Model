@@ -21,3 +21,5 @@ Bootstrap testing: Nonparametric bootstrap (e.g., B=1000) of the rows to assess 
 - Diagnostics and influence plots
 - Test-set performance metrics and PRESS
 - Bootstrap coefficient summaries
+
+# Report to be updated to include subsequent years, beginning in 2000.
